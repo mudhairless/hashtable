@@ -1,12 +1,3 @@
-''File: hashtable.bas
-''Description: Demonstration of ext.HashTable object.
-''
-''Copyright (c) 2007-2024 FreeBASIC Extended Library Development Group
-''
-''Distributed under the FreeBASIC Extended Library Group license. (See
-''accompanying file LICENSE.txt or copy at
-''https://github.com/FreeBASIC-Extended-Library/fb-ext-lib/blob/master/COPYING)
-
 # include once "hashtable.bi"
 
 var myHT = HashTable_integer(16)
